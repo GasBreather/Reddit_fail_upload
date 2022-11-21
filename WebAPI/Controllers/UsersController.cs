@@ -1,7 +1,7 @@
 ﻿using Application.LogicInterfaces;
 using Microsoft.AspNetCore.Mvc;
-using Shared.DTOs;
-using Shared.Models;
+using Domain.DTOs;
+using Domain.Models;
 
 namespace WebAPI.Controllers;
 
@@ -10,7 +10,6 @@ namespace WebAPI.Controllers;
 public class UsersController : ControllerBase
 {
     private readonly IUserLogic userLogic;
-
     public UsersController(IUserLogic userLogic)
     {
         this.userLogic = userLogic;

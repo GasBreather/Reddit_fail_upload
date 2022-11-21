@@ -1,5 +1,5 @@
-﻿using Shared.DTOs;
-using Shared.Models;
+﻿using Domain.DTOs;
+using Domain.Models;
 
 namespace Application.LogicInterfaces;
 

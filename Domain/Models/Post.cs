@@ -1,6 +1,7 @@
 ﻿using System.Reflection.Metadata;
+using Domain.DTOs;
 
-namespace Shared.Models;
+namespace Domain.Models;
 
 public class Post
 {
@@ -15,4 +16,5 @@ public class Post
         this.Title = Title;
         this.Body = Body;
     }
+
 }

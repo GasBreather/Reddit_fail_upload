@@ -1,4 +1,4 @@
-﻿namespace Shared.DTOs;
+﻿namespace Domain.DTOs;
 
 public class SearchUserParametersDto
 {

@@ -6,20 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a9091a-ee85-481e-8851-7a0b02484b10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Application/DaoInterfaces/IUserDao.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Application/Logic/UserLogic.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Application/LogicInterfaces/IUserLogic.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/DTOs/SearchUserParametersDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/DTOs/UserCreationDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/Models/Post.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domain/Models/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileData/DAOs/UserFileDao.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileData/DataContainer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileData/FileContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebAPI/Controllers/UsersController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reddit.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Reddit.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Solution1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +83,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664278048030</updated>
-      <workItem from="1664278052542" duration="6797000" />
+      <workItem from="1664278052542" duration="6882000" />
     </task>
+    <task id="LOCAL-00001" summary="yes this is very good work tahnk y0ou">
+      <created>1664284988549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664284988549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="yes this is very good work tahnk y0ou" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes this is very good work tahnk y0ou" />
   </component>
 </project>

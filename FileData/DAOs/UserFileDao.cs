@@ -1,6 +1,6 @@
 ﻿using Application.DaoInterfaces;
-using Shared.DTOs;
-using Shared.Models;
+using Domain.DTOs;
+using Domain.Models;
 
 namespace FileData.DAOs;
 
@@ -47,5 +47,13 @@ public class UserFileDao : IUserDao
         }
 
         return Task.FromResult(users);
+    }
+
+    public Task<User?> GetByIdAsync(int dtoOwnerId)
+    {
+        User? existing = context.Users.FirstOrDefault(u =>
+            u.Id == dtoOwnerId
+        );
+        return Task.FromResult(existing);
     }
 }
